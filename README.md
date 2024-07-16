@@ -20,4 +20,4 @@ You need a web browser to run this project. No additional software or installati
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/todo-list-app.git](https://github.com/Robert-Stoica/Javacript-To-do-List.git
+   git clone https://github.com/yourusername/todo-list-app.git
